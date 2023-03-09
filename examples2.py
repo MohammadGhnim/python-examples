@@ -62,3 +62,13 @@ if sex == 'male':
 if age >= 21:
         print('she is a young girl')
 
+print('----------------------------')
+
+num = -3
+if num >= 0:
+    if num == 0:
+        print('0')
+    else:
+        print('Positiv number')
+else:
+    print('Negativ number')
